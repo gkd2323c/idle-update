@@ -1,0 +1,6 @@
+# Logs
+logs/
+*.log
+
+# State file
+.autoupdate-state.json
